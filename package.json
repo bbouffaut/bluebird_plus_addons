@@ -1,6 +1,6 @@
 {
   "name": "bluebird",
-  "version": "1.1.1_bbo",
+  "version": "1.1.2_bbo",
   "description": "",
   "main": "bluebird.js",
   "scripts": {
